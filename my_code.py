@@ -5,4 +5,4 @@
 
 x = input("What is your name?")
 y = input("What is your faviorte color?")
-print("your are", y , x)
+print("your are a", y , x)
